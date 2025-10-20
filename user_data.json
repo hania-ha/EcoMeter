@@ -1,0 +1,38 @@
+{
+  "user": {
+    "name": "Hania",
+    "household_size": 4,
+    "location": "Lahore",
+    "joined_date": "2025-10-20"
+  },
+  "usage_history": [
+    {
+      "month": "Aug 2024",
+      "units": 280,
+      "bill": 6580
+    },
+    {
+      "month": "Sep 2024",
+      "units": 295,
+      "bill": 6932
+    },
+    {
+      "month": "Oct 2024",
+      "units": 290,
+      "bill": 6815
+    },
+    {
+      "month": "Oct 2025",
+      "units": 63,
+      "bill": 56000.0
+    }
+  ],
+  "current_month": {
+    "units": 63,
+    "bill": 56000.0,
+    "date_uploaded": "2025-10-20 20:10:52"
+  },
+  "eco_score": 100,
+  "achievements": [],
+  "challenges_completed": 0
+}
